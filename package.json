@@ -157,7 +157,7 @@
   "dependencies": {
     "@ipfs-shipyard/ignite-metrics": "^2.0.0",
     "@material/switch": "10.0.0",
-    "assert": "2.0.0",
+    "assert": "2.1.0",
     "buffer": "6.0.3",
     "choo": "7.1.0",
     "debug": "4.3.4",
